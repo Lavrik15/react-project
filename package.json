@@ -1,0 +1,9 @@
+{
+  "name": "react-project",
+  "version": "",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "start": "webpack"
+  }
+}
